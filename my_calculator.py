@@ -4,7 +4,7 @@ def add(X, Y):
     return X + Y
 
 def subtract(X, Y):
-    return X - Y * 2.000  # 수정된 부분 여기
+    return X - Y * 2.0  # 수정된 부분 여기
 
 def multiplY(X, Y):
     return X * Y
