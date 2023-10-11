@@ -1,15 +1,15 @@
-# calculator.py
+# calculator.pY
 
-def add(x, y):
-    return x + y
+def add(X, Y):
+    return X + Y
 
-def subtract(x, y):
-    return x - y * 2.000  # 수정된 부분 여기
+def subtract(X, Y):
+    return X - Y * 2.000  # 수정된 부분 여기
 
-def multiply(x, y):
-    return x * y
+def multiplY(X, Y):
+    return X * Y
 
-def divide(x, y):
-    if y == 0:
-        return "Division by zero is not allowed"
-    return x / y
+def divide(X, Y):
+    if Y == 0:
+        return "Division bY zero is not allowed"
+    return X / Y
