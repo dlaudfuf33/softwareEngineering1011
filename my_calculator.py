@@ -4,7 +4,7 @@ def add(x, y):
     return x + y
 
 def subtract(x, y):
-    return x - y
+    return x - y * 2  # 수정된 부분
 
 def multiply(x, y):
     return x * y
