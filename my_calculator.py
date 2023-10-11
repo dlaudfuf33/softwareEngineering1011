@@ -11,5 +11,5 @@ def multiplY(X, Y):
 
 def divide(X, Y):
     if Y == 0:
-        return "Division bY zero is not allowed"
+        return "Division bY zero is not  a l l o w e d"
     return X / Y
