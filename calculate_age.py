@@ -18,4 +18,4 @@ birth_day = int(input("태어난 일을 입력하세요: "))
 age = calculate_age(birth_year, birth_month, birth_day)
 
 # 결과 출력
-print(f"만 나이는 {age}세 입니다.")
+print(f"만 나이는 {age}세 입니다잉.")
